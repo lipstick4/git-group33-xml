@@ -1,6 +1,7 @@
-<favorite_book>Of Human Bondage<favorite_book>
+<list>
+ <favorite_book>Of Human Bondage<favorite_book>
  <favorite_movie>Inception</favorite_movie>
  <favorite_TVshow> Office</favorite_TVshow>
-  <next_country> Lebanon</next_country>
- 
+ <next_country> Lebanon</next_country>
+</list> 
 
