@@ -1,4 +1,6 @@
-<name>Rabtsevich Viktoryia</name>
-<age>28</age>
-<pet>5</pet>
-<country>Lebanon</country>
+<list>
+  <name>Rabtsevich Viktoryia</name>
+  <age>28</age>
+  <pet>5</pet>
+  <country>Lebanon</country>
+</list>
