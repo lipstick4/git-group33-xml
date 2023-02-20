@@ -1,9 +1,10 @@
-<1>HTTP Methods</1>
-<2>API Testing with Postman</2>
-<3>Dev Tools</3>
-<4>Mobile testing</4>
-<5>SQL Basics</5>
-<6>Postgres database</6>
-<7>Load testing in Jmeter</7>
-<8>Python</8>
-
+<list>  
+  <1>HTTP Methods</1>
+  <2>API Testing with Postman</2>
+  <3>Dev Tools</3>
+  <4>Mobile testing</4>
+  <5>SQL Basics</5>
+  <6>Postgres database</6>
+  <7>Load testing in Jmeter</7>
+  <8>Python</8>
+</list>
